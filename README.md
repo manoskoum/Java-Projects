@@ -56,10 +56,8 @@ Choose the species/breed of the pet:
 ...
 Pet registered successfully on 2025-09-15
 
-👤 Author
+👤 Author Koumentakis Emmanouil
 
-Koumentakis Emmanouil
-📧 manoskoume@gmail.com.com
+📧 manoskoume@gmail.com
 
-🌐 LinkedIn www.linkedin.com/in/emmanouil-koumentakis-a382a8325
- | GitHub
+🌐 [LinkedIn] (www.linkedin.com/in/emmanouil-koumentakis-a382a8325) | [GitHub] ()
