@@ -60,4 +60,4 @@ Pet registered successfully on 2025-09-15
 
 📧 manoskoume@gmail.com
 
-🌐 [LinkedIn] (www.linkedin.com/in/emmanouil-koumentakis-a382a8325) | [GitHub] ()
+🌐 [LinkedIn](https://www.linkedin.com/in/emmanouil-koumentakis-a382a8325) | [GitHub](https://github.com/YourGitHubUsername)
