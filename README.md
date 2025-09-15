@@ -40,3 +40,26 @@ This project was built to practice **object-oriented programming**, **collection
 
 
 📸 Sample Output
+=== Pet Care Scheduler ===
+1. Register new pet
+2. Set appointment
+3. Display data
+4. Generate reports
+5. Save and Exit
+Choose an option: 1
+
+Enter Pet ID: 101
+give the name of the pet : Rex
+Choose the species/breed of the pet:
+1. Dog
+2. Cat
+...
+Pet registered successfully on 2025-09-15
+
+👤 Author
+
+Koumentakis Emmanouil
+📧 manoskoume@gmail.com.com
+
+🌐 LinkedIn www.linkedin.com/in/emmanouil-koumentakis-a382a8325
+ | GitHub
