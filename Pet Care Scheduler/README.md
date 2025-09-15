@@ -19,6 +19,7 @@ Pets with upcoming appointments in the next 7 days
 Pets overdue for a vet visit (> 6 months since last visit)
 💾 Data Persistence
 Save data to a file (data.dat) using Java serialization (ObjectOutputStream)
+
 🛠️ Technologies
 Java 17+
 Classes: LocalDate, LocalDateTime, DateTimeFormatter
