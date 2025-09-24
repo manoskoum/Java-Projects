@@ -25,8 +25,8 @@ It mimics a mobile-style layout and coloring.
    }
 ## UI Palette
 - Top row & right column: light blue `#DBE5F7`
-- Digits/others: light grey #E8EBEE
-- =: purple #6A5884
+- Digits/others: light grey `#E8EBEE`
+- `=:` purple `#6A5884`
 - Text: dark grey / white accordingly
 
 
