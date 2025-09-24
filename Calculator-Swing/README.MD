@@ -24,7 +24,7 @@ It mimics a mobile-style layout and coloring.
         Calculator calculator= new Calculator();
    }
 ## UI Palette
-- Top row & right column: light blue #DBE5F7
+- Top row & right column: light blue `#DBE5F7`
 - Digits/others: light grey #E8EBEE
 - =: purple #6A5884
 - Text: dark grey / white accordingly
