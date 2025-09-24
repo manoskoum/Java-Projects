@@ -25,3 +25,4 @@ It mimics a mobile-style layout and coloring.
    }
 
 ## Screenshot
+![Calculator screenshot](../Screenshot_1.png)
