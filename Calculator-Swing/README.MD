@@ -23,6 +23,16 @@ It mimics a mobile-style layout and coloring.
    public static void main(String[] args) {
         Calculator calculator= new Calculator();
    }
+
+## Notes / Behavior
+
+- When you press multiple operators in a row, the last one replaces the previous operator (e.g., 3 + then × shows 3 × ).
+
+- If the display is empty and you press -, it starts a negative number.
+
+- Backspace erases one character; AC clears everything.
+
+- Parentheses are displayed but ignored by the evaluator (roadmap item).
 ## UI Palette
 - Top row & right column: light blue `#DBE5F7`
 - Digits/others: light grey `#E8EBEE`
