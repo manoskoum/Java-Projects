@@ -21,8 +21,14 @@ It mimics a mobile-style layout and coloring.
 4. Ensure the `Calculator` class has a `main` method:
    ```java
    public static void main(String[] args) {
-       javax.swing.SwingUtilities.invokeLater(Calculator::new);
+        Calculator calculator= new Calculator();
    }
+## UI Palette
+
+-Top row & right column: light blue #DBE5F7
+-Digits/others: light grey #E8EBEE
+-=: purple #6A5884
+-Text: dark grey / white accordingly
 
 ## Screenshot
 ![Calculator screenshot](../Screenshot_1.png)
