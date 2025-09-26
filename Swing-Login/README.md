@@ -18,6 +18,11 @@ User data is stored in an in-memory `HashMap` (no database).
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/swing-login-demo.git
+2.Open the project in IntelliJ IDEA (or any Java IDE).
+
+3.Run the Main.java file.
+
+4. Use an existing account (User/pass) or sign up as a new user.
 
 
 ## 📌 Future Improvements
