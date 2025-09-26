@@ -11,5 +11,5 @@ This repository contains small Java projects. Each project lives in its own fold
    - **Technologies:** Java 8+, Collections (`Map`, `List`), `java.time` (`LocalDate`, `LocalDateTime`), Serialization (`ObjectOutputStream`), Console I/O (`Scanner`).
 
 3. [Swing-Login](Swing-Login/)
-   - **Description:**
-   - **Technologies:** 
+   - **Description:** A simple Java Swing desktop application that demonstrates a basic authentication system with Sign Up and Login functionality using an in-memory
+   - **Technologies:** Java,Swing,HashMap,IntelliJ IDEA
