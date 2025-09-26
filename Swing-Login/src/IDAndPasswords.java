@@ -6,12 +6,13 @@ public class IDAndPasswords {
 
     IDAndPasswords(){
 
-        loginInfo.put("Bro","pizza");
-        loginInfo.put("new","pizza1");
-        loginInfo.put("NEW","pizza2");
+        loginInfo.put("User","pass");
+        loginInfo.put("Manos","manos");
+        loginInfo.put("new","new");
     }
 
     protected HashMap getLoginInfo() {
         return loginInfo;
     }
 }
+
