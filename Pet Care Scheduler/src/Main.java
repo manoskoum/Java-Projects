@@ -135,7 +135,7 @@ public class Main {
                 return;
             }
 
-            // εδώ μπορείς να συνεχίσεις να φτιάξεις το Appointment
+            
             System.out.println("Valid appointment time: " + appointmentDateTime);
 
         } catch (DateTimeParseException e) {
