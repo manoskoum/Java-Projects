@@ -34,3 +34,7 @@ bin/
 
 # Application data
 members.dat
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
